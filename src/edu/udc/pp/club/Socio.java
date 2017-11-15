@@ -1,4 +1,4 @@
-package parcial.pp.alan.punto3;
+package edu.udc.pp.club;
 
 public abstract class Socio {
 	

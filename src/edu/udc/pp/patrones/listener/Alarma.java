@@ -1,4 +1,4 @@
-package edu.udc.pp.patrones.litener;
+package edu.udc.pp.patrones.listener;
 
 public class Alarma implements CisternaListener {
 

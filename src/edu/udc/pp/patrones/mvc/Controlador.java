@@ -3,11 +3,12 @@ package edu.udc.pp.patrones.mvc;
 import java.util.LinkedList;
 import java.util.List;
 
-import parcial.pp.alan.punto3.Adherente;
-import parcial.pp.alan.punto3.Club;
-import parcial.pp.alan.punto3.Pleno;
-import parcial.pp.alan.punto3.Socio;
-import parcial.pp.alan.punto3.Vitalicio;
+import edu.udc.pp.club.Adherente;
+import edu.udc.pp.club.Club;
+import edu.udc.pp.club.Pleno;
+import edu.udc.pp.club.Socio;
+import edu.udc.pp.club.Vitalicio;
+
 
 public class Controlador {
 	

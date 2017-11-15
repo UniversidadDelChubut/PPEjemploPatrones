@@ -3,7 +3,8 @@ package edu.udc.pp.patrones.mvc;
 import java.util.List;
 import java.util.Scanner;
 
-import parcial.pp.alan.punto3.Socio;
+import edu.udc.pp.club.Socio;
+
 
 public class VistaConsola implements Vista {
 	

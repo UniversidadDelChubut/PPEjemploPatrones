@@ -1,4 +1,4 @@
-package edu.udc.pp.patrones.litener;
+package edu.udc.pp.patrones.listener;
 
 import java.util.Collection;
 import java.util.LinkedList;
